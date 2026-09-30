@@ -9,7 +9,6 @@ s.summary = 'BlueStack adapter used for mediation with the AppLovin MAX SDK'
 s.platform = :ios, '13.0'
 s.homepage = "https://developers.bluestack.app/"
 s.swift_version = '5'
-s.source_files = ["BlueStackAppLovinAdapter.xcframework/*/*/Headers/*.{h,m,swift}"]
 s.source = { :git => 'https://github.com/azerion/bluestack-applovin-adapter.git', :tag => "#{s.version}" }
 s.documentation_url = 'https://developers.bluestack.app/ios/mediation/primairy/supported-networks#applovin'
 s.vendored_frameworks = "BlueStackAppLovinAdapter.xcframework"
