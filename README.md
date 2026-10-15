@@ -11,8 +11,8 @@ Using BlueStackAppLovinAdapter you will be able to show AppLovin ads through Blu
 - Rewarded
 
 ## Requirements
-- Xcode 15.0 or higher
-- iOS: 13.0
+- Xcode 27 or higher
+- iOS: 15.0
 
 ## Integrate BlueStackAppLovinAdapter in your application project
 
